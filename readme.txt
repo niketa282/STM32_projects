@@ -1,0 +1,2 @@
+Planning to use Keil and STM32 F207ZG Nucleo board for driver development based on Udemy course 
+https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/learn/lecture/17154114#overview
