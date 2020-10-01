@@ -1,2 +1,4 @@
 I plan to use Keil instead of STM32Cube IDE and STM32 F207ZG Nucleo board instead of Discovery board for driver development based on Udemy course 
 https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/learn/lecture/17154114#overview
+
+working on new branch for development
